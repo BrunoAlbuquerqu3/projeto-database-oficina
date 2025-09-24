@@ -19,7 +19,7 @@ O esquema foi projetado para gerenciar as operações centrais de uma oficina, i
 
 O diagrama abaixo, gerado no MySQL Workbench, ilustra a estrutura final do banco de dados com suas entidades e relacionamentos.
 
-![Modelo Lógico do Banco de Dados](Diagrama_EER_oficina.jpg)
+![Modelo Lógico do Banco de Dados](Diagrama_EER_officina.jpg)
 
 ## 📁 Estrutura de Arquivos
 
@@ -47,3 +47,4 @@ O arquivo `03_queries.sql` inclui consultas que respondem a perguntas de negóci
 ---
 
 _Projeto desenvolvido por Bruno Albuquerque como parte do Desafio de Projeto do Bootcamp Klabin._
+
